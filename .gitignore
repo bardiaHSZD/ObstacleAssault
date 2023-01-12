@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+Content/BlockGame/*/**
+Content/Hour_of_Code/*/**
+Content/LearningKit_Games/*/**
+Content/LearningKit_Robots/*/**
+Content/SCK_Casual01/Mannequin/*
+Content/SCK_Casual01/Maps/*
+Content/SCK_Casual01/Models/*
+Content/SCK_Casual01/Textures/*
+Content/SCK_Casual01/Materials/*/**
+SCK_Casual01.png
+Content/LearningKit_Robots/ReadMe.uasset
